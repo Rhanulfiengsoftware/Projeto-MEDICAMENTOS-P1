@@ -1,0 +1,39 @@
+.root {
+    -fx-font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    -fx-font-size: 13px;
+}
+
+.header {
+    -fx-background-color: #1f2d5a;
+    -fx-padding: 14 24 14 24;
+    -fx-spacing: 2;
+}
+.header-title    { -fx-text-fill: white;   -fx-font-size: 20px; -fx-font-weight: bold; }
+.header-subtitle { -fx-text-fill: #f08a4b; -fx-font-size: 12px; }
+
+.section-title {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1f2d5a;
+}
+.hint    { -fx-text-fill: #6b7280; }
+.summary { -fx-font-weight: bold; -fx-text-fill: #1f2d5a; }
+
+.button { -fx-cursor: hand; }
+.btn-primary {
+    -fx-background-color: #1f2d5a;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.btn-primary:hover { -fx-background-color: #2f428a; }
+.btn-danger {
+    -fx-background-color: #c0392b;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.btn-danger:hover    { -fx-background-color: #e04a3a; }
+.btn-danger:disabled { -fx-opacity: 0.45; }
+
+/* Destaques de linha nas tabelas */
+.table-row-cell.row-vencido:filled:!selected       { -fx-background-color: #fbd5d1; }
+.table-row-cell.row-estoque-baixo:filled:!selected { -fx-background-color: #fff3c4; }

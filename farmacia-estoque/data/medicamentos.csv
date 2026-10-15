@@ -1,0 +1,7 @@
+codigo;nome;descricao;principioAtivo;dataValidade;quantidadeEstoque;preco;controlado;cnpj;razaoSocial;telefone;email;cidade;estado
+AMX0001;Amoxicilina 500mg;Antibiótico em cápsulas, caixa com 21;Amoxicilina;2027-03-15;40;32.90;false;11222333000181;Distribuidora Saúde Total Ltda;6232221100;vendas@saudetotal.com.br;Goiânia;GO
+DIP0002;Dipirona 500mg;Analgésico e antitérmico, caixa com 10;Dipirona sódica;2026-10-28;3;8.50;false;11222333000181;Distribuidora Saúde Total Ltda;6232221100;vendas@saudetotal.com.br;Goiânia;GO
+RIV0003;Rivotril 2mg;Ansiolítico, receita azul;Clonazepam;2027-08-01;12;24.75;true;04567890000179;Farma Brasil S.A.;1133445566;contato@farmabrasil.com.br;São Paulo;SP
+IBU0004;Ibuprofeno 600mg;Anti-inflamatório, caixa com 20;Ibuprofeno;2026-11-05;25;15.30;false;04567890000179;Farma Brasil S.A.;1133445566;contato@farmabrasil.com.br;São Paulo;SP
+PAR0005;Paracetamol 750mg;Analgésico, caixa com 20;Paracetamol;2028-01-20;100;11.20;false;33444555000181;MedLog Distribuidora Ltda;6234567890;comercial@medlog.com.br;Anápolis;GO
+RTL0006;Ritalina 10mg;Estimulante do SNC, receita amarela;Metilfenidato;2027-05-30;4;78.00;true;33444555000181;MedLog Distribuidora Ltda;6234567890;comercial@medlog.com.br;Anápolis;GO
